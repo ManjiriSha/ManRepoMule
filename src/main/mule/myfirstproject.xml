@@ -9,6 +9,6 @@
 				<fixed-frequency frequency="10000"/>
 			</scheduling-strategy>
 		</scheduler>
-		<logger level="INFO" doc:name="Logger" doc:id="3c25144f-8018-4865-b024-c15966e9c63f" message="Hello My First Project going on ci cd"/>
+		<logger level="INFO" doc:name="Logger" doc:id="3c25144f-8018-4865-b024-c15966e9c63f" message="Hello My First Project going on CI/CD"/>
 	</flow>
 </mule>
