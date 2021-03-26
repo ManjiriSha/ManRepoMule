@@ -30,6 +30,15 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+				<cloudHubDeployment>
+				<username>Man21</username>
+				<environment>Sandbox</environment>
+				<password>Man@2021</password>
+			     <muleVesrion>4.3.0</muleVesrion>
+				<workers>1</workers>
+				<workerType>Micro</workerType>
+				<applicationName>MyFirstProject</applicationName>
+				</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
