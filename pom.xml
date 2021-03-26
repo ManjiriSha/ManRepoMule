@@ -34,7 +34,7 @@
 				<username>Man2021</username>
 				<environment>Sandbox</environment>
 				<password>Man@2021</password>
-			     <muleVesrion>4.0.0</muleVesrion>
+			     <muleVesrion>4.3.0</muleVesrion>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>MyFirstProject</applicationName>
